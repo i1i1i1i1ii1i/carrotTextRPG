@@ -1,11 +1,8 @@
 using System;
 
-namespace Monster;
+namespace carrotTextRPG;
 
 class Monster
 {
-    static void Main()
-    {
 
-    }
 }

@@ -2,7 +2,7 @@ using System;
 
 namespace carrotTextRPG;
 
-class Player
+class MainMenuScene
 {
 
 }

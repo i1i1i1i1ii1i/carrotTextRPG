@@ -1,11 +1,8 @@
 using System;
 
-namespace Item;
+namespace carrotTextRPG;
 
 class Item
 {
-    static void Main()
-    {
 
-    }
 }
