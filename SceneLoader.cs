@@ -2,8 +2,8 @@ using System;
 
 namespace carrotTextRPG;
 
-class SceneLoader
+abstract class SceneLoader
 {
-
+    public abstract void LoadScene();
 }
 

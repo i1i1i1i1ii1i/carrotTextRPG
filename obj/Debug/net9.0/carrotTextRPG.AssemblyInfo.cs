@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("carrotTextRPG")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e2dee2f49448a0d52fcd274e229610741d4db69")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd3a7e877e65eee74864b0419a184d328a3ba307")]
 [assembly: System.Reflection.AssemblyProductAttribute("carrotTextRPG")]
 [assembly: System.Reflection.AssemblyTitleAttribute("carrotTextRPG")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
