@@ -1,0 +1,15 @@
+C:\Users\sleep\Documents\GitHub\Team_Project\carrotTextRPG\obj\Debug\net9.0\carrotTextRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sleep\Documents\GitHub\Team_Project\carrotTextRPG\obj\Debug\net9.0\carrotTextRPG.AssemblyInfoInputs.cache
+C:\Users\sleep\Documents\GitHub\Team_Project\carrotTextRPG\obj\Debug\net9.0\carrotTextRPG.AssemblyInfo.cs
+C:\Users\sleep\Documents\GitHub\Team_Project\carrotTextRPG\obj\Debug\net9.0\carrotTextRPG.csproj.CoreCompileInputs.cache
+C:\Users\sleep\Documents\GitHub\Team_Project\carrotTextRPG\obj\Debug\net9.0\carrotTextRPG.sourcelink.json
+C:\Users\sleep\Documents\GitHub\Team_Project\carrotTextRPG\bin\Debug\net9.0\carrotTextRPG.exe
+C:\Users\sleep\Documents\GitHub\Team_Project\carrotTextRPG\bin\Debug\net9.0\carrotTextRPG.deps.json
+C:\Users\sleep\Documents\GitHub\Team_Project\carrotTextRPG\bin\Debug\net9.0\carrotTextRPG.runtimeconfig.json
+C:\Users\sleep\Documents\GitHub\Team_Project\carrotTextRPG\bin\Debug\net9.0\carrotTextRPG.dll
+C:\Users\sleep\Documents\GitHub\Team_Project\carrotTextRPG\bin\Debug\net9.0\carrotTextRPG.pdb
+C:\Users\sleep\Documents\GitHub\Team_Project\carrotTextRPG\obj\Debug\net9.0\carrotTextRPG.dll
+C:\Users\sleep\Documents\GitHub\Team_Project\carrotTextRPG\obj\Debug\net9.0\refint\carrotTextRPG.dll
+C:\Users\sleep\Documents\GitHub\Team_Project\carrotTextRPG\obj\Debug\net9.0\carrotTextRPG.pdb
+C:\Users\sleep\Documents\GitHub\Team_Project\carrotTextRPG\obj\Debug\net9.0\carrotTextRPG.genruntimeconfig.cache
+C:\Users\sleep\Documents\GitHub\Team_Project\carrotTextRPG\obj\Debug\net9.0\ref\carrotTextRPG.dll

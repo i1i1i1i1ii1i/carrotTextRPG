@@ -4,6 +4,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        //GameManager gameManger = new GameManager();
+        //SceneLoader scene = new MainMenuScene();
+        //scene.LoadScene();
     }
 }
